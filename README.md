@@ -24,3 +24,9 @@ Which product categories have the highest number of transactions?
 Which categories generate the highest revenue?
 
 How do categories compare in terms of sales volume and revenue contribution?
+
+-Dashboard Interaction <a href="https://github.com/eshita100/Coffee-Shop-Sales-Dashboard/blob/main/Screenshot_1.png">View Dashboard</a>
+
+## Project Insights
+
+The analysis shows steady business performance, with strong contributions from major categories like Desserts and Specialty Drinks, and consistently high revenue from cities such as Los Angeles, Seattle, and Chicago. Weekday and monthly trends indicate stable customer demand and predictable peak activity periods.
